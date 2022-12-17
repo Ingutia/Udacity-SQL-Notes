@@ -1,5 +1,5 @@
 ## Lesson 1: Introduction to SQL
-
+SQL statements are code that can read and manipulate data. Basic syntax reminders: SQL isn't case sensitive - meaning you can write upper and lower case anywhere in the code. Additionally, you can end SQL statements with a semicolon, but some SQL environments don't require a semicolon at the end.
 ### Some Quick Vocabulary
 - Structured Query Language (SQL) – Structured Query Language is a language that allows us to access information in a database. A typical query might look like this: 
 ```sql
